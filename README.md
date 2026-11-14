@@ -67,7 +67,7 @@ I'm a Computer Science graduate passionate about Python development, Artificial 
 
 🚀 Featured Projects
 
-1. 🤖 AI Image Caption Generator
+1. 🤖** AI Image Caption Generator**
 
 Description:
 
@@ -88,7 +88,7 @@ Developed the Flask application, implemented image upload functionality and inte
 
 ---
 
-2. 🌱 Organic Food Supply Chain Using Blockchain
+2. 🌱 **Organic Food Supply Chain Using Blockchain**
 
 Description:
 
@@ -106,7 +106,7 @@ Blockchain Technology | Web Technologies
 
 ---
 
-3. 🩸 Blood Bank Management System
+3. 🩸** Blood Bank Management System**
 
 Description:
 
@@ -124,7 +124,7 @@ Python | Add actual database and interface technologies used.
 
 ---
 
-4. 🌐 Personal Portfolio Website
+4. 🌐 **Personal Portfolio Website**
 
 Description:
 
@@ -152,23 +152,8 @@ HTML | CSS
 
 ---
 
-📊 GitHub Statistics
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Varunkalal2004&show_icons=true&theme=tokyonight&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkalal2004&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-🔥 GitHub Contribution Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=Varunkalal2004&theme=tokyonight&hide_border=true)
-
----
-
 🤝 Connect With Me
 
-- 💻 GitHub: "Varunkalal2004" (https://github.com/Varunkalal2004)
 - 📧 Email: kalalvt2004@gmail.com
 
 ---
